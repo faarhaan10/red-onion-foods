@@ -1,0 +1,11 @@
+
+.food-nav{
+    margin-bottom: 2px ;
+}
+.food-nav:focus{
+    margin-bottom: 0 ;
+    border-bottom: 2px solid red !important;
+}
+
+.food-card:hover{
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;}
